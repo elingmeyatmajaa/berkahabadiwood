@@ -1,12 +1,10 @@
 import { defineConfig } from "astro/config";
 import tailwind from "@astrojs/tailwind";
 import react from "@astrojs/react";
-import vercel from "@astrojs/vercel/serverless";
+import vercel from "@astrojs/vercel/edge";
 
 export default defineConfig({
   integrations: [tailwind(), react()],
   output: "server",
-  adapter: vercel({
-    runtime: "nodejs20.x", // ✅ gunakan Node.js 20
-  }),
+  adapter: vercel(),
 });
