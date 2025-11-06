@@ -7,6 +7,7 @@ export default defineConfig({
   integrations: [tailwind(), react()],
   output: "server",
   adapter: vercel({
-    runtime: "nodejs20.x", 
+    edgeMiddleware: true, 
+    runtime: "nodejs20.x",
   }),
 });
