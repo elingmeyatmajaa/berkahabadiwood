@@ -35,5 +35,5 @@ And other config files.
 
 ## GitHub Repository
 
-Feel free to check [my repo](https://github.com/PriscaTonia/interior-design-website)
-Also preview with [live link](https://interior-design-website-ntb.vercel.app/).
+Feel free to check [my repo](https://github.com/PriscaTonia/berkah-abadi-wood-website)
+Also preview with [live link](https://berkah-abadi-wood-website-ntb.vercel.app/).

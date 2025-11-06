@@ -82,13 +82,13 @@ const Footer = () => {
           </h5>
           <div className="flex flex-col gap-6">
             <p className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray">
-              55 East Birchwood Ave. Brooklyn, New York 11201
+              Jl. Mayor unus km.1,5, Soroyudan Jogonegoro Magelang Jawa Tengah
             </p>
             <p className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray">
-              contact@interno.com
+              contact@aberkahabadiwood.com
             </p>
             <p className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray">
-              (123) 456 - 7890
+              +62 812-2987-7771
             </p>
           </div>
         </div>
