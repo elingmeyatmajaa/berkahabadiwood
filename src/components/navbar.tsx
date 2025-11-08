@@ -11,9 +11,7 @@ const Navbar = () => {
 
   return (
     <div className="max-w-[1200px] px-12 xl:px-0 m-auto w-full py-11 flex justify-between items-center">
-<a href="/" aria-label="Go to homepage">
-  <Logo />
-</a>
+      <img src="/Logo.png" alt="Berkah Abadi Wood" className="h-10 w-auto" />
 
       {/* Nav List for Desktop */}
       {matches && (

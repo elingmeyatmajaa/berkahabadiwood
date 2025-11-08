@@ -10,15 +10,13 @@ const Footer = () => {
       <div className="w-full max-w-[1200px] px-12 xl:px-0 mx-auto pb-[135px] grid grid-cols-1 lg:grid-cols-5 md:grid-cols-2 gap-6">
         {/* start */}
         <div className="col-span-1 md:col-span-2">
-          <a href="/" className="">
-            <Logo />
-          </a>
+               <img src="/Logo.png" alt="Berkah Abadi Wood" className="h-10 w-auto" />
+
           <p className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray pt-[18px] pb-[33px]">
-            It is a long established fact that a reader will be distracted
-            lookings.
+            Sustainable wood innovation for the environment.
           </p>
           <div className="flex gap-5 md:gap-[54px]">
-            <a href="/">
+            <a href="https://www.facebook.com/share/1CsrUoddhx/">
               <Facebook />
             </a>
             <a href="/">
@@ -82,13 +80,13 @@ const Footer = () => {
           </h5>
           <div className="flex flex-col gap-6">
             <p className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray">
-              Jl. Mayor unus km.1,5, Soroyudan Jogonegoro Magelang Jawa Tengah
+              Jl. Mayor Unus km.1,5, Soroyudan Jogonegoro Magelang Jawa Tengah
             </p>
             <p className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray">
-              contact@aberkahabadiwood.com
+              everyandanie@gmail.com
             </p>
             <p className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray">
-              +62 812-2987-7771
+              +62 877-1633-8658
             </p>
           </div>
         </div>
