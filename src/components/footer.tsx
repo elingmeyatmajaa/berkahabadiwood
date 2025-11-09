@@ -83,7 +83,7 @@ const Footer = () => {
               Jl. Mayor Unus km.1,5, Soroyudan Jogonegoro Magelang Jawa Tengah
             </p>
             <p className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray">
-              everyandanie@gmail.com
+              berkahabadijogonegoro@gmail.com
             </p>
             <p className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray">
               +62 877-1633-8658
